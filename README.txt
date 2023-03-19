@@ -1,3 +1,8 @@
+This is Peter Danaher's developer portfolio. It showcases some of my projects, my resume, and a brief description about me.
+Feel free to check it out.
+
+To make this site I used Stellar by HTML5 UP as a template. The credits and description can be found down below. 
+
 Stellar by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
